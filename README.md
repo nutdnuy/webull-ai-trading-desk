@@ -244,7 +244,8 @@ gap-through stops, and a holdout that cannot be seen early or run twice.
 
 Version 0.1.0. What has and has not been verified:
 
-- Verified: both test suites (76 tests); the plugin and marketplace
+- Verified: both test suites (76 tests) on Python 3.9, 3.10, 3.13 and 3.14;
+  the plugin and marketplace
   manifests with `claude plugin validate`; the two hook scripts run as
   subprocesses with the stdin and exit-code contract from the Claude Code
   hooks documentation.
