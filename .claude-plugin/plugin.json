@@ -1,0 +1,10 @@
+{
+  "name": "trading-desk",
+  "description": "A six-seat AI trading desk for Claude Code on the Webull MCP server: Scout, Analyst, Skeptic, Risk, Quant and Journal, with a code-enforced order gate and a human who approves every trade.",
+  "version": "0.1.0",
+  "author": { "name": "nutdnuy" },
+  "homepage": "https://github.com/nutdnuy/webull-ai-trading-desk",
+  "repository": "https://github.com/nutdnuy/webull-ai-trading-desk",
+  "license": "MIT",
+  "keywords": ["trading", "webull", "mcp", "risk-management", "backtesting", "skills"]
+}

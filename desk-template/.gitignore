@@ -1,0 +1,10 @@
+# never commit secrets or account data
+.env
+.sec-user-agent
+account/
+journal/gate.log
+data/
+__pycache__/
+*.pyc
+KILL
+PAUSE

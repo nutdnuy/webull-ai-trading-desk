@@ -1,0 +1,16 @@
+{
+  "name": "webull-ai-trading-desk",
+  "description": "Skills, hooks and safety scripts for running a human-approved AI trading desk on the Webull MCP server.",
+  "owner": {
+    "name": "nutdnuy"
+  },
+  "plugins": [
+    {
+      "name": "trading-desk",
+      "source": "./",
+      "description": "A six-seat AI trading desk on the Webull MCP server, with a code-enforced order gate and a human who approves every trade.",
+      "version": "0.1.0",
+      "license": "MIT"
+    }
+  ]
+}
